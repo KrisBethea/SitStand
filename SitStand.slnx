@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SitStand.App/SitStand.App.csproj" />
+    <Project Path="src/SitStand.Core/SitStand.Core.csproj" />
+    <Project Path="src/SitStand.Storage/SitStand.Storage.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SitStand.Core.Tests/SitStand.Core.Tests.csproj" />
+  </Folder>
+</Solution>

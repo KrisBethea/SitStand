@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+*.swp
+.vs/
+.idea/
+*.DotSettings.user
+TestResults/
+*.binlog
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Local-only
+*.local.json
