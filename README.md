@@ -175,3 +175,9 @@ Unsigned executables get a SmartScreen warning on other machines. That's a code-
 ## If this goes beyond one desk
 
 Everything is local and no network call exists in the codebase. Keep it that way by default. A tracker that watches whether someone is at their desk reads very differently when IT installs it than when you build it for yourself — local-only storage, no central aggregation, one-click export and delete, and an explicit opt-in for anything that leaves the machine are the difference between a tool and evidence.
+
+## AI-Assisted Development
+
+SitStand was developed with AI assistance, including help with architecture, implementation, testing, documentation, and code review. Claude was used extensively during development, with ChatGPT contributing to the initial concept, requirements, and design discussions.
+
+All design decisions, code changes, testing, and final project direction were reviewed and directed by the project owner.
